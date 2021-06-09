@@ -1,0 +1,85 @@
+{
+  "info": {
+  	"administrator_id":"67645345",
+  	"chat_id":"13435423432",
+    "name": "Группа 1",
+    "description": "Занятия вольной борьбой, 1 группа.",
+    "chat_image": "{base64 image}",
+    "members": [
+      {
+        "id": "{integer value}",
+        "avatar": "{base64 image}",
+        "name": "Руднов Иван",
+        "last_visit": "20.05.2021 18:00"
+      },
+      {
+        "id": "{integer value}",
+        "avatar": "{base64 image}",
+        "name": "Гачин Иван",
+        "last_visit": "20.05.21 19:30"
+      },
+      {
+        "id": "{integer value}",
+        "avatar": "{base64 image}",
+        "name": "Лахин Дмитрий",
+        "last_visit": "20.05.21 16:23"
+      },
+      {
+        "id": "{integer value}",
+        "avatar": "{base64 image}",
+        "name": "Павлов Борис",
+        "last_visit": "20.05.21 11:05"
+      },
+      {
+        "id": "{integer value}",
+        "avatar": "{base64 image}",
+        "name": "Илюхин Анатолий",
+        "last_visit": "20.05.21 12:10"
+      }
+    ]
+  },
+    "messages": [
+      {
+        "send_info": {
+          "reply_message_id": "none",
+          "sender_id": "sender_id value",
+          "send_date": "20.05.21 09:00"
+        },
+        "message_id": "456789",
+        "text": "Да, я согласен.",
+        "attachments": [
+          {
+            "type_comment": "common types: {archive, photo, audio, document, link}",
+            "type": "photo",
+            "document_id": "integer value",
+            "document_name": "",
+            "document_data": "base64"
+          },
+          {
+            "type_comment": "common types: {archive, photo, audio, document, link}",
+            "type": "photo",
+            "document_id": "integer value",
+            "document_name": "",
+            "document_data": "base64"
+          },
+          {
+            "type_comment": "common types: {archive, photo, audio, document, link}",
+            "type": "document",
+            "document_id": "integer value",
+            "document_name": "",
+            "document_data": "base64"
+          }
+        ]
+      },
+      {
+        "send_info": {
+          "reply_message_id": "456789",
+          "sender_id": "sender_id value",
+          "send_date": "20.05.21 09:10"
+        },
+        "message_id": "500900",
+        "text": "Также поддерживаю товарища.",
+        "attachments": []
+      }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "user": {
+    "id": "13213123",
+    "avatar": "base64",
+    "name": "Алёхин Влад",
+    "department": {
+      "name": "Приборостроение",
+      "id": "1231454"
+    },
+    "title": "Конструктор",
+    "inner_phone": "213-567",
+    "about": "some_text goes here..."
+  }
+}

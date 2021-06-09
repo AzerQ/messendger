@@ -1,0 +1,69 @@
+{
+  "dialogs": [
+    {
+      "id": "32458967657",
+      "type_comment": " all types {user, chat, notes, service}.",
+      "type": "user",
+      "name_comment": "{user Name + Surname} if type=user, else recorded dialog name.",
+      "name": "Илья Маркин",
+      "icon": "{Some base64 value}",
+      "last_message": {
+        "text": "Удачи в работе, до встречи.",
+        "date": "12:31"
+      },
+      "unseen_messages": "2"
+    },
+    {
+      "id": "5245867657",
+      "type_comment": " all types {user, chat, notes, service}.",
+      "type": "user",
+      "name_comment": "{user Name + Surname} if type=user, else recorded dialog name.",
+      "name": "Рушалов Алексей",
+      "icon": "{Some base64 value}",
+      "last_message": {
+        "text": "Андрей, твой доклад уже готов, жду отчёт на следующей неделе!?",
+        "date": "03.04.2021 21:30"
+      },
+      "unseen_messages": "5"
+    },
+    {
+      "id": "457842367657",
+      "type_comment": " all types {user, chat, notes, service}.",
+      "type": "chat",
+      "name_comment": "{user Name + Surname} if type=user, else recorded dialog name.",
+      "name": "Отдел планирования",
+      "icon": "{Some base64 value}",
+      "last_message": {
+        "text": "Готовимся к собранию во вторник, всех попрошу прийти к 11:00 в главный зал.",
+        "date": "12.05.2021 10:00"
+      },
+      "unseen_messages": "100"
+    },
+    {
+      "id": "24262367657",
+      "type_comment": " all types {user, chat, notes, service}.",
+      "type": "user",
+      "name_comment": "{user Name + Surname} if type=user, else recorded dialog name.",
+      "name": "Игошин Александр",
+      "icon": "{Some base64 value}",
+      "last_message": {
+        "text": "Ну, как, всё в силе?",
+        "date": "02.05.2021 19:10"
+      },
+      "unseen_messages": "1"
+    },
+    {
+      "id": "36458967657",
+      "type_comment": " all types {user, chat, notes, service}.",
+      "type": "user",
+      "name_comment": "{user Name + Surname} if type=user, else recorded dialog name.",
+      "name": "Игорь Кложухов",
+      "icon": "{Some base64 value}",
+      "last_message": {
+        "text": "Алло, как?",
+        "date": "19.03.2021 21:30"
+      },
+      "unseen_messages": "2"
+    }
+  ]
+}
